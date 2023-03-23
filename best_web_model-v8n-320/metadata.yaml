@@ -1,0 +1,14 @@
+description: Ultralytics best model trained on data.yaml
+author: Ultralytics
+license: GPL-3.0 https://ultralytics.com/license
+version: 8.0.55
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 320
+- 320
+names:
+  0: basketball
+  1: hoop
+  2: player
